@@ -1,22 +1,35 @@
 {
-  "name": "@codertocat/hello-world-npm",
-  "version": "1.0.2",
-  "description": "A simple npm package to demonstrate GitHub Package Registry",
+  "name": "theabbie",
+  "version": "1.0.3",
+  "description": "A pseudo-introvert, a web developer, and a Maker",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'hi'"
   },
+  "license": "MIT",
+  "keywords": [
+    "theabbie"
+  ],
+  "author": "Abhishek Chaudhary <abhishek7gg7@gmail.com>",
+  "engines": {
+    "node": ">4.0"
+  },
+  "homepage": "https://theabbie.github.io/",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://theabbie.github.io/"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Abhishek Chaudhary",
+      "email": "abhishek7gg7@gmail.com",
+      "url": "https://theabbie.github.io/"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Codertocat/hello-world-npm.git"
-  },
-  "author": "Codertocat",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Codertocat/hello-world-npm/issues"
-  },
-  "homepage": "https://github.com/Codertocat/hello-world-npm#readme",
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "url": "http://github.com/theabbie/theabbie.git"
   }
 }
