@@ -1,35 +1,24 @@
 {
   "name": "theabbie",
   "version": "1.0.3",
-  "description": "A pseudo-introvert, a web developer, and a Maker",
+  "description": "Hello World I am Abhishek Chaudhary, A pseudo-introvert, A web developer and a maker",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'hi'"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "license": "MIT",
-  "keywords": [
-    "theabbie"
-  ],
-  "author": "Abhishek Chaudhary <abhishek7gg7@gmail.com>",
-  "engines": {
-    "node": ">4.0"
-  },
-  "homepage": "https://theabbie.github.io/",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://theabbie.github.io/"
-    }
-  ],
-  "contributors": [
-    {
-      "name": "Abhishek Chaudhary",
-      "email": "abhishek7gg7@gmail.com",
-      "url": "https://theabbie.github.io/"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/theabbie/theabbie.git"
-  }
+    "url": "git+https://github.com/theabbie/theabbie.git"
+  },
+  "keywords": [
+    "theabbie",
+    "abhishek",
+    "chaudhary"
+  ],
+  "author": "abhishek chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theabbie/theabbie/issues"
+  },
+  "homepage": "https://github.com/theabbie/theabbie#readme"
 }
