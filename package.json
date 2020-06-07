@@ -4,7 +4,7 @@
   "description": "Hello World I am Abhishek Chaudhary, A pseudo-introvert, A web developer and a maker",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "repository": {
     "type": "git",
