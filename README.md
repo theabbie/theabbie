@@ -2,13 +2,13 @@
 
 <p align='center'><img src="https://theabbie.github.io/files/logo.png" alt="TheAbbie" width="100" height="100"></p>
 
-* [About Me](#About-Me)
-* [My Blog](#My-Blog)
-* [Tasks](#Tasks)
-* [10 Ways to contact me](#10-Ways-to-contact-me)
-* [Donate](#Donate)
+* [About Me](#about-me)
+* [My Blog](#my-blog)
+* [Tasks](#tasks)
+* [10 Ways to contact me](#10-ways-to-contact-me)
+* [Donate](#donate)
 
-## About Me
+## about Me
 
 Hello World, I am Abhishek Chaudhary
 
@@ -39,11 +39,11 @@ https://theabbie.github.io
 </tbody>
 </table>
 
-## My Blog
+## my blog
 
 https://theabbie.github.io/blog
 
-## Tasks
+## tasks
 
 - [x] Born
 - [ ] Got a job
@@ -51,7 +51,7 @@ https://theabbie.github.io/blog
 - [ ] Have children
 - [ ] Die
 
-## 10 Ways to contact me
+## 10 ways to contact me
 
 <ul>
 <li><a href="mailto:abhishek7gg7@gmail.com" rel="me">Mail</a>
@@ -67,7 +67,7 @@ https://theabbie.github.io/blog
 </li>
 </ul>
 
-## Donate
+## donate
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K31DJFA)
 
