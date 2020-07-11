@@ -20,6 +20,8 @@ https://theabbie.github.io
 
 [Resume](https://theabbie.github.io/resume.pdf)
 
+<a href="https://codetrace.com/users/theabbie"><img src="https://codetrace.com/widget/theabbie" width="220" height="50" /></a>
+
 <table>
 <caption>Abhishek Chaudhary</caption>
 <thead>
