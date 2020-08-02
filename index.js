@@ -1,7 +1,7 @@
-function CryptoCRIT() {
+function theabbie() {
   console.log('Hello World!');
 }
 
 module.exports = {
-  CryptoCRIT: CryptoCRIT
+  theabbie: theabbie
 }
