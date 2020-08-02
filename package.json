@@ -1,24 +1,24 @@
 {
-  "name": "CryptoCRIT",
-  "version": "1.0.0",
-  "description": "CryptoCRIT is an open-source Cryptocurrency project for making automated payments, The associated Cryptocurrency is called CritCoin",
+  "name": "theabbie",
+  "version": "1.0.7",
+  "description": "Hello World I am Abhishek Chaudhary, A pseudo-introvert, A web developer and a maker",
   "main": "index.js",
   "scripts": {
     "test": ""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rgab1508/CryptoCRIT.git"
+    "url": "git+https://github.com/theabbie/theabbie.git"
   },
   "keywords": [
-    "Cryptocurrency",
-    "open-source",
-    "CritCoins"
+    "theabbie",
+    "abhishek",
+    "chaudhary"
   ],
-  "author": "CryptoCRIT",
+  "author": "abhishek chaudhary",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rgab1508/CryptoCRIT/issues"
+    "url": "https://github.com/theabbie/theabbie/issues"
   },
-  "homepage": "https://github.com/rgab1508/CryptoCRIT"
+  "homepage": "https://github.com/theabbie/theabbie#readme"
 }
