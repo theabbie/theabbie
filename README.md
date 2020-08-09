@@ -18,9 +18,9 @@ A pseudo-introvert, a web developer, and a Maker
 
 https://theabbie.github.io
 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-1526-9128" href="https://orcid.org/0000-0003-1526-9128" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-1526-9128</a></div>
-
 [Resume](https://theabbie.github.io/resume.pdf)
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-1526-9128" href="https://orcid.org/0000-0003-1526-9128" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-1526-9128</a></div>
 
 <a href="https://codetrace.com/users/theabbie"><img src="https://codetrace.com/widget/theabbie" width="220" height="50" /></a>
 
