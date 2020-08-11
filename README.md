@@ -5,6 +5,7 @@
 [![Rate on Openbase](https://badges.openbase.io/js/rating/theabbie.svg)](https://openbase.io/js/theabbie?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge)
 
 * [About Me](#about-me)
+* [My Octocat](#my-octocat)
 * [My Blog](#my-blog)
 * [Tasks](#tasks)
 * [10 Ways to contact me](#10-ways-to-contact-me)
@@ -51,6 +52,10 @@ https://theabbie.github.io
 <tr><th scope='row'>Known For</th><td>TheAbbie</td></tr>
 </tbody>
 </table>
+
+## my octocat
+
+<img src="https://theabbie.github.io/files/octocat.png" alt="TheAbbie" width="200" height="200">
 
 ## my blog
 
