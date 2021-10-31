@@ -4,6 +4,8 @@
 
 [![Rate on Openbase](https://badges.openbase.io/js/rating/theabbie.svg)](https://openbase.io/js/theabbie?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge)
 
+![](https://hit.yhype.me/github/profile?user_id=17960677)
+
 * [About Me](#about-me)
 * [My Octocat](#my-octocat)
 * [My Blog](#my-blog)
