@@ -47,9 +47,6 @@ https://theabbie.github.io
 <tr><th scope='row'>Nationality</th><td>Indian</td></tr>
 <tr><th scope='row'>Occupation</th><td>Web Developer</td></tr>
 <tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, SEO</td></tr>
-<tr><th scope='row'>Other Name</th><td>TheAbbie</td></tr>
-<tr><th scope='row'>Title</th><td>CEO of TheAbbie</td></tr>
-<tr><th scope='row'>Known For</th><td>TheAbbie</td></tr>
 </tbody>
 </table>
 
