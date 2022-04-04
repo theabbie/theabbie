@@ -4,6 +4,8 @@
 
 [![Rate on Openbase](https://badges.openbase.io/js/rating/theabbie.svg)](https://openbase.io/js/theabbie?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge)
 
+[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=313131&color=313131)](https://github.com/theabbie.gpg)
+
 ![](https://hit.yhype.me/github/profile?user_id=17960677)
 
 * [About Me](#about-me)
