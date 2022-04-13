@@ -100,4 +100,4 @@ https://theabbie.github.io/blog
 
 [![Donate on opencollective](https://opencollective.com/webpack/donate/button@2x.png?color=blue)](https://opencollective.com/theabbie)
 
-[![Donate](https://button.flattr.com/button-compact-static-100x17.png)](https://flattr.com/@theabbie)
+<!-- [![Donate](https://button.flattr.com/button-compact-static-100x17.png)](https://flattr.com/@theabbie) -->
