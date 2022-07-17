@@ -13,7 +13,7 @@
 * [10 Ways to contact me](#10-ways-to-contact-me)
 * [Donate](#donate)
 
-## about Me
+## About Me
 
 Hello World, I am Abhishek Chaudhary
 
