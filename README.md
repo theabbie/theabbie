@@ -71,7 +71,7 @@ https://theabbie.github.io/blog
 ## tasks
 
 - [x] Born
-- [ ] Got a job
+- [x] Got a job
 - [ ] Married
 - [ ] Have children
 - [ ] Die
