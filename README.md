@@ -15,7 +15,7 @@
 
 ## About Me
 
-Hello World, I am Abhishek Chaudhary
+Hello World, I am Abhishek Choudhary
 
 A pseudo-introvert, a web developer, and a Maker
 
