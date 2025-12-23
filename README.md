@@ -74,6 +74,7 @@ https://theabbie.github.io/blog
 
 - [x] Born
 - [x] Got a job
+- [x] Find life partner
 - [ ] Married
 - [ ] Have children
 - [ ] Die
