@@ -2,7 +2,7 @@
 
 <p align='center'><img src="https://theabbie.github.io/files/logo.png" alt="TheAbbie" width="100" height="100"></p>
 
-Taken by [https://github.com/priyaa1110](@priyaa1110)
+Taken by [@priyaa1110](https://github.com/priyaa1110)
 
 [![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=313131&color=313131)](https://github.com/theabbie.gpg)
 
