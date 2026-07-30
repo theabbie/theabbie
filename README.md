@@ -1,38 +1,5 @@
 # TheAbbie
 
-## MCP Server
-
-This package is an [MCP (Model Context Protocol)](https://modelcontextprotocol.io) server that provides live information about theabbie from [`theabbie.github.io/about.json`](https://theabbie.github.io/about.json).
-
-**Run it** (stdio transport):
-
-```bash
-npx -y theabbie
-```
-
-**Client config example:**
-
-```json
-{
-  "mcpServers": {
-    "theabbie": {
-      "command": "npx",
-      "args": ["-y", "theabbie"]
-    }
-  }
-}
-```
-
-**Tools**
-
-* `get_theabbie_info` — returns the full profile JSON (personal, contact, professional, ...). Optional `section` argument returns one top-level section only.
-
-**Resources**
-
-* `theabbie://about.json` — the raw profile JSON.
-
----
-
 <p align='center'><img src="https://theabbie.github.io/files/logo.png" alt="TheAbbie" width="100" height="100"></p>
 
 [![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=313131&color=313131)](https://github.com/theabbie.gpg)
