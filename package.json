@@ -1,10 +1,22 @@
 {
   "name": "theabbie",
-  "version": "1.1.2",
-  "description": "Hello World I am Abhishek Chaudhary, A pseudo-introvert, A web developer and a maker",
+  "version": "2.0.0",
+  "description": "MCP server for live information about theabbie (Abhishek Chaudhary) — personal, contact and professional data from theabbie.github.io/about.json",
+  "mcpName": "io.github.theabbie/theabbie",
+  "type": "module",
   "main": "index.js",
+  "bin": {
+    "theabbie": "index.js"
+  },
+  "files": [
+    "index.js"
+  ],
   "scripts": {
-    "test": ""
+    "start": "node index.js",
+    "test": "node --check index.js"
+  },
+  "engines": {
+    "node": ">=18"
   },
   "repository": {
     "type": "git",
@@ -13,12 +25,19 @@
   "keywords": [
     "theabbie",
     "abhishek",
-    "chaudhary"
+    "chaudhary",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol"
   ],
   "author": "abhishek chaudhary",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/theabbie/theabbie/issues"
   },
-  "homepage": "https://github.com/theabbie/theabbie#readme"
+  "homepage": "https://github.com/theabbie/theabbie#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "zod": "^3.25.76"
+  }
 }
