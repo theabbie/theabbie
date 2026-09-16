@@ -1,0 +1,13 @@
+version = 1
+
+exclude_patterns = [
+  "node_modules/**"
+]
+
+[[analyzers]]
+name = "javascript"
+enabled = true
+
+  [analyzers.meta]
+  environment = ["nodejs"]
+  module_system = "es-modules"
